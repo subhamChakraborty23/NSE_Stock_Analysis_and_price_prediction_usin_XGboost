@@ -13,7 +13,7 @@ In this project i have worked on the NSE dataset of different industries and did
 - XGBoost &
 - Seaborn,etc.
 ## Observations and Results:
-- worked data scraping from NSE,
+- worked on data scrapping from NSE,
 - Preprocessed the datasets,
 - visualized and observed the time series nature of the datasets,
 - trained a Regressor and Classifier model,
